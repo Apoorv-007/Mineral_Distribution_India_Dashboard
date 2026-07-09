@@ -19,7 +19,6 @@ This tool is useful for understanding the geoeconomic landscape of India's minin
 
 ## 🛠️ Tools & Technologies Used
 * **Microsoft Power BI:** For data modeling, DAX calculations, and visualization.
-* **Data Source:** (Mention your source here, e.g., Indian Bureau of Mines, Ministry of Mines, or Dummy Data).
 * **Data Transformation:** Power Query was used for cleaning and normalization of state and company data.
 
 ## 📂 File Structure
